@@ -16,7 +16,9 @@ while True:
         print('Вы можете предпринять следующие действия:')
 a = 324324
 b =4939449
-c = a*b
+###sdsojhsodfhosdhfhsdfsdf
+#sdijfiosjdfsdiofsidjf
+#skpjgpsijdfipsdjf
 
         
 
