@@ -14,11 +14,6 @@ while True:
     if vvod == '2':
         print('Вы прошли 100 шагов и оказались в лесу\n')
         print('Вы можете предпринять следующие действия:')
-a = 324324
-b =4939449
-###sdsojhsodfhosdhfhsdfsdf
-#sdijfiosjdfsdiofsidjf
-#skpjgpsijdfipsdjf
 
         
 
