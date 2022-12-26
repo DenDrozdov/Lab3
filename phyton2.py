@@ -2,8 +2,7 @@ from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
 import numpy as np
 from itertools import product, combinations
-#Рисует сферу в кубе или просто сферу
-#Необходимо скачать модули
+#Показать сорокину, он обрадуется
 
 fig = plt.figure()
 ax = fig.gca(projection='3d')
